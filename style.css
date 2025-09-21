@@ -1,0 +1,9 @@
+#MainTitle{
+    color: blue;
+}
+.highlighted {
+background-color: yellow;
+}
+button:hover {
+background-color: green;
+}
