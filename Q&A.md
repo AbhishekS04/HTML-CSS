@@ -997,4 +997,3 @@ background: #fff url(bg.jpg) no-repeat center/cover;
 - Not using quotes around attribute values
 - Mixing up `class` and `id` selectors in CSS
 
-**Good Luck with your exam! 🍀**
